@@ -84,10 +84,17 @@ python -m venv venv
   source venv/bin/activate
   ```
 
+## Reference 🧧:
+* The first Advance NLP Research paper which revolutionaries the Industry <a href="https://github.com/SINGHxTUSHAR/ANUVADAK/blob/main/Reference/Attention%20is%20all%20you%20need.pdf"> Attention is all you need. </a>
+* More good and reference research papers used to build this model <a href="https://github.com/SINGHxTUSHAR/ANUVADAK/blob/main/Reference/NLP-researchPaper.pdf"> NLP Research Paper. </a>
+* Hugging Face website for other multilingual language models<a href="https://huggingface.co/models"> Hugging Face 🤗 </a>
+* Website for NLP and DL references <a href="https://arxiv.org/abs/1706.03762"> Cornell University </a>
+
+
 ## Contributing 📌:
 If you'd like to contribute to this project, please follow the standard GitHub fork and pull request process. Contributions, issues, and feature requests are welcome!
 
-## Suggestion🚀: 
+## Suggestion 🚀: 
 If you have any suggestions for me related to this project, feel free to contact me at tusharsinghrawat.delhi@gmail.com or <a href="https://www.linkedin.com/in/singhxtushar/">LinkedIn</a>.
 
 ## License 📝:
